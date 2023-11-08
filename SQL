@@ -1,3 +1,3 @@
 //Used to find distinct genre names
 SELECT DISTINCT Genre
-FROM `data-analyst-project-1-404520.Video_Game_Data.Video_Game_Data` LIMIT 1000
+FROM `data-analyst-project-1-404520.Video_Game_Data.Video_Game_Data` 
